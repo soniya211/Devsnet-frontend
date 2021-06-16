@@ -1,0 +1,14 @@
+body{
+	background-color: beige;
+	text-decoration: none;
+}
+a:hover{
+	color: #000000;
+	text-decoration: none
+}
+h2{
+	font-size: 16px;
+}
+p{
+	font-size: 16px;
+}
