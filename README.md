@@ -1,2 +1,2 @@
 # Devsnet-frontend
-assignmnets for frontend
+THA for frontend
